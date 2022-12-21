@@ -9,5 +9,10 @@
 <body>
     <h1>Hello world!</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, repellat!</p>
+
+    <ul>
+        <li>makan</li>
+        <li>tidur</li>
+    </ul>
 </body>
 </html>
